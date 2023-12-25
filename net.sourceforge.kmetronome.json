@@ -1,7 +1,7 @@
 {
   "app-id": "net.sourceforge.kmetronome",
   "runtime": "org.kde.Platform",
-  "runtime-version": "6.5",
+  "runtime-version": "6.6",
   "sdk": "org.kde.Sdk",
   "command": "kmetronome",
   "rename-icon": "kmetronome",
@@ -52,8 +52,8 @@
       "sources": [
         {
           "type": "archive",
-          "url": "https://downloads.sourceforge.net/project/drumstick/2.8.0/drumstick-2.8.0.tar.gz",
-          "sha256": "8b385f629a39af559974e3cc1d6b5ec5cc9bfff2f210b57d2b6fe70a5cb0aed2"
+          "url": "https://downloads.sourceforge.net/project/drumstick/2.9.0/drumstick-2.9.0.tar.gz",
+          "sha256": "b2692d3f96a1537ecf3a81dcad5c88ff700fc0af400dc2570cce19cb6cd1023a"
         }
       ]
     },
@@ -64,8 +64,8 @@
       "sources": [
         {
           "type": "archive",
-          "url": "http://downloads.sourceforge.net/project/kmetronome/kmetronome/1.3.1/kmetronome-1.3.1.tar.bz2",
-          "sha256": "cebdf36819d422f81fd31871e68207ede48adc74ef91f309a841603ba0d2acff"
+          "url": "http://downloads.sourceforge.net/project/kmetronome/kmetronome/1.4.0/kmetronome-1.4.0.tar.bz2",
+          "sha256": "e75b8500f474c6c637cfdac573c49d486bb869efd5cd4982d6a0bc44676de3c6"
         }
       ]
     }
